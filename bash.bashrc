@@ -5,14 +5,17 @@ command_not_found_handle() {
 PS1='\[\e[31m\]┌─[\[\e[37m\]\T\[\e[31m\]]─────\e[1;93m[root]\e[0;31m───[\#]\n|\n\e[0;31m└─[\[\e[31m\]\e[0;35m\W\[\e[31m\]]────►\e[1;92m'
 
 clear
-echo -e "Created By \e[HACK_SENILA"
+echo -e "Created By \e[HHACK_SENILA"
 echo "----------------------------" | lolcat
-echo -e "\e[HACK"
-echo -e "\e[SENILA"
+echo -e "\e[HHACK"
+echo -e "\e[SSENILA"
 echo "----------------------------" | lolcat
 echo "
-+-+-+-+-+-+-+-+
-|W|e|l|c|o|m|e|
-+-+-+-+-+-+-+-+ " | lolcat
+
+||   ||  ||===||  ||====  ||  ||
+||   ||  ||   ||  ||      || ||
+||===||  ||===||  ||      |||
+||   ||  ||   ||  ||      || ||
+||   ||__||   ||__||====__||  ||" | lolcat
 date | lolcat
 echo ""
